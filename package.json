@@ -1,0 +1,28 @@
+{
+  "name": "numquamvoluptatem",
+  "version": "1.0.0",
+  "description": "Fire a JavaScript Event when you enter the « Up Up Bottom Bottom Left Right Left Right B A » Konami Code Sequence.",
+  "main": "src/konami-code.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertWiza/numquamvoluptatem.git"
+  },
+  "keywords": [
+    "numquam",
+    "itaque",
+    "ester",
+    "egg",
+    "keyboard",
+    "support",
+    "touch",
+    "support"
+  ],
+  "author": "JenniferUllrich",
+  "license": "GPL-3.0"
+}
